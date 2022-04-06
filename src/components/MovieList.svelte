@@ -19,8 +19,4 @@
         column-gap: 1rem;
         row-gap: 2rem;
     }
-
-    li {
-        /* overflow: hidden; */
-    }
 </style>
