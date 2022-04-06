@@ -40,10 +40,4 @@
     .movie-detail {
         margin: 1rem 10%;
     }
-
-    img {
-        display: block;
-        width: 100%;
-        border-radius: 1rem;
-    }
 </style>
